@@ -1,0 +1,12 @@
+FileInputStream
+ObjectInputStream
+ObjectOutputStream
+PipedInputStream
+PipedOutputStream
+PipedReader
+PipedWriter
+JarInputStream
+JarOutputStream
+GZIPInputStream
+GZIPOutputStream
+ZipFile
