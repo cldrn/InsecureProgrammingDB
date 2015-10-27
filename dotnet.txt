@@ -1,0 +1,14 @@
+String.Format
+SqlCommand
+Process.Start
+Response.Write
+Request.QueryString
+Response.Redirect
+System.Security
+WindowsIdentity
+CreateProcess
+Assembly.Load
+<%=
+Reflection.Emit
+File.WriteAllText
+String.Compare
