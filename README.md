@@ -11,3 +11,4 @@ This is an archive of dangerous programming functions known for causing security
 * Android
 
 ##Contributions
+Send your PRs!
