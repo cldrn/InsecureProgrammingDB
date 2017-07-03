@@ -1,0 +1,3 @@
+gets
+sprintf //mitigation: snprintf
+strcpy //mitigation: strlcpy
