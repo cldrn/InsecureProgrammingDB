@@ -1,0 +1,16 @@
+$.after 
+$.append
+$.appendTo
+$.before
+$.html         //mitigation: use $.text
+$.insertAfter
+$.insertBefore
+$.prepend
+$.prependTo
+$.ready       //mitigation: place script at very bottom of html
+$.replaceAll
+$.replaceWith
+$.unwrap
+$.wrap
+$.wrapAll
+$.wrapInner
