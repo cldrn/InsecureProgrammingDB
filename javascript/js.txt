@@ -1,0 +1,7 @@
+eval               //mitigation: use JSON.parse or parsexxx()
+execScript
+innerHTML          //mitigation: use `creatTextNode` and then `appendChild`
+insertAdjacentHTML
+new Function
+setInterval
+setTimeout
