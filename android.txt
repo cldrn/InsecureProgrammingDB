@@ -1,0 +1,5 @@
+putString
+setJavaScriptEnabled
+getExternalStorageDirectory
+getBundleExtra
+SharedPreferences
