@@ -1,3 +1,7 @@
 gets
 sprintf //mitigation: snprintf
 strcpy //mitigation: strlcpy
+malloc
+calloc
+realloc
+aligned_alloc
