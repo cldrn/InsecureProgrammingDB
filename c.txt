@@ -5,3 +5,6 @@ malloc
 calloc
 realloc
 aligned_alloc
+atoi
+atol
+memset
