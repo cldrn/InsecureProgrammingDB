@@ -8,3 +8,8 @@ aligned_alloc
 atoi
 atol
 memset
+strcat
+scanf
+puts
+getenv
+putenv
