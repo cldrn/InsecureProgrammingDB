@@ -13,3 +13,4 @@ scanf
 puts
 getenv
 putenv
+volatile
