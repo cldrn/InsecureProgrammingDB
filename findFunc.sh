@@ -2,6 +2,8 @@
 
 #pass three args db with functions, the path of the sorce code and the output path
 
+#usage: ./findFunc.sh list/of/functions.txt /path/source/code/ /output/path
+
 input=$1 #file with the list of functions
 sourceCodePATH=$2 #locate of the source code
 output=$3 # output path
