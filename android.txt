@@ -5,3 +5,4 @@ getBundleExtra
 SharedPreferences
 filterTouchesWhenObscured // Must be set to true - Tapjacking/clickjacking
 onFilterTouchEventForSecurity //Tapjacking/Clickjacking
+openOrCreateDatabase // likely with hardcoded creds
