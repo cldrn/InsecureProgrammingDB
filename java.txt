@@ -30,3 +30,4 @@ lang.Method.reflection.invoke
 lang.Method.field.set
 lang.Method.field.get
 javax.script.ScriptEngine.eval
+request.getParameter
