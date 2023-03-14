@@ -46,3 +46,4 @@
  os.Create
  os.NewFile
  os.OpenFile
+ InsecureSkipVerify
