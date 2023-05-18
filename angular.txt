@@ -3,3 +3,5 @@ byPassSecurityTrustStyle()
 byPassSecurityTrustScript()
 byPassSecurityTrustUrl()
 byPassSecurityTrustResourceUrl()
+innerHTML
+
