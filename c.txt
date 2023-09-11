@@ -14,3 +14,4 @@ puts
 getenv
 putenv
 volatile
+memcpy
